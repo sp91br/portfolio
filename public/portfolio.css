@@ -1,0 +1,53 @@
+* {
+  box-sizing: border-box;
+}
+
+li{
+  list-style-type: none;
+}
+
+a{
+   text-decoration: none;
+}
+
+
+/*$bg-color: #f6d3c0;*/
+
+/*header*/
+header {
+  text-align: center;
+}
+
+header a, header a:visited, header a:active {
+  color: white;
+}
+
+header a:hover{
+  color: lightgray;
+}
+
+header ul{
+  display: flex;
+  margin: 0;
+  padding: 0;
+}
+
+
+/*nav*/
+/*picture*/
+/*list*/
+/*blog*/
+/*header*/
+/*header*/
+
+
+h1 {
+  font-size: 15px;
+}
+/*backgrount*/
+/*html {
+  background: #f6d3c0;
+}*/
+
+
+/* Float */
